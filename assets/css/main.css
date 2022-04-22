@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.images-box {
+    display: none;
+  }
+  
+  .counter-section {
+    background-color: transparent !important;
+  }
+  
+  .counter-main {
+    padding-bottom: 12rem;
+  }
+  
+  .counter-section i {
+    display: block;
+    margin: 0 0 10px;
+  
+  }
+  
+  .counter-section span.counter {
+    font-size: 40px;
+    color: #000;
+    line-height: 60px;
+    display: block;
+    letter-spacing: 2px;
+  }
+  
+  .counter-title {
+    font-size: 1.2rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .counter-icon {
+    top: 25px;
+    position: relative
+  }
+  
+  .counter-style2 .counter-title {
+    letter-spacing: 0.55px;
+    float: left
+  }
+  
+  .counter-style2 span.counter {
+    letter-spacing: 0.55px;
+    float: left;
+    margin-right: 10px
+  }
+  
+  .counter-style2 i {
+    float: right;
+    line-height: 26px;
+    margin: 0 10px 0 0
+  }
+  
+  .counter-subheadline span {
+    float: right
+  }
+  
+  .medium-icon {
+    font-size: 40px !important;
+    margin-bottom: 15px !important
+  }
+  
+  .timer {
+    font-weight: 700;
+    font-size: 5rem !important;
+  }
+  
+  .bg-time {
+    background-color: #6167d9;
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+  }
+  
+  .time,
+  .txt-time {
+    color: white !important;
+  }
+  
+  .counter-img {
+    width: 130px;
+  }
+  
+  .fa-chevron-down {
+    margin-left: 1rem;
+    font-size: 1.5rem;
+    background-color: #f3f4f3;
+    padding: 0 1rem;
+    border-radius: 5px;
+  }
+  
+  .schedule .schedule-tab-title .nav-tabs .nav-item.show .nav-link,
+  .schedule .schedule-tab-title .nav-tabs .nav-link.active,
+  .schedule .schedule-tab-title .nav-tabs .nav-item .nav-link:hover {
+    background-color: #2e35a6;
+    border: none;
+  }
+  
+  .table-responsive{
+    border-radius: 5px;
+  }
+  .section-title:before, .section-title:after{
+    background-color: #212121;
+  }
