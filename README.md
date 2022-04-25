@@ -1,6 +1,1 @@
-# Inria2
-# Inria2Test
-# Inria2Test
-# Inria2Test
-# Inria2Test
-# Inria-Test
+# journees-scientifiques-2022
