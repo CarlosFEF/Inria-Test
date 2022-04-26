@@ -510,7 +510,7 @@ a.back-to-top:focus {
 }
 
 .section-padding {
-  padding: 12rem 0;
+  padding: 5rem 0;
 }
 
 .section-padding-footer {
@@ -2399,4 +2399,62 @@ a.back-to-top:focus {
   padding: 0.4rem 1rem;
   border-radius: 5px;
 
+}
+
+.person-title{
+  font-size: 20px;
+  line-height: 1.5rem;
+  font-weight: bold;
+}
+.person-divider{
+  border-bottom: 5px #ff5722 solid;
+  content: ;
+  width: 30%;
+  margin: auto;
+}
+
+.person-divider-group{
+  border-bottom: 5px #ff5722 solid;
+  content: ;
+  width: 7%;
+  margin: auto;
+}
+
+.gaceta-description{
+  font-size: 0.85rem!important;
+  font-weight: bold;
+  line-height: 10px;
+}
+.gaceta-link{
+  margin-top: 10px;
+  color: white;
+}
+
+.gaceta-footer{
+  background-color: #3e44b2;
+  color: white!important;
+  padding: 0.2rem 1.25rem;
+}
+
+.gaceta-body{
+  background-color: #dfe0f7;
+}
+
+.gaceta-budget{
+  margin-left: 60%!important;
+  margin-right: 0px!important;
+  position: absolute;
+    top: 0;
+    background: #fe4d39;
+    color: #fff;
+    width: 40%;
+    font-size: 12px;
+    padding: 0.3em 1.2em;
+    line-height: 1;
+    background-color: #fe4d39;
+    border-radius: 2px;
+    margin: 20px;
+    font-family: "Oswald", Sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.5px;
 }
